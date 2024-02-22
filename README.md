@@ -8,7 +8,7 @@
 
 Projeto desenvolvido para fins didáticos com o objetivo de consolidar os fundamentos de lógica de programação com a trilha da DIO.
 
-## Desafio Classificador de nível de Herói
+## Desafio 1 - Classificador de nível de Herói
 ## Objetivo
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
