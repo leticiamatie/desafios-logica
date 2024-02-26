@@ -3,10 +3,10 @@
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
   <a href="[https://www.dio.me/](https://web.dio.me/track/decola-tech-avanade-net-developer)">
      <img align="center" width="40px" src="https://hermes.dio.me/tracks/977d1b41-5888-44d7-8e4c-57d2348748dc.png"></a>
-    <span>Desafio de projeto - Formação Lógica de Programação</span>
+    <span>Desafios de projeto - Formação Lógica de Programação</span>
 </h1>
 
-Projeto desenvolvido para fins didáticos com o objetivo de consolidar os fundamentos de lógica de programação com a trilha da DIO.
+Projeto desenvolvido para fins didáticos com o objetivo de consolidar os fundamentos de lógica de programação com a trilha da DIO, publicando os desafios de projeto e anotações do curso.
 
 ## Desafio 1 - Classificador de nível de Herói
 ### Objetivo
