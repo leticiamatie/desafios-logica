@@ -8,7 +8,7 @@
 
 Projeto desenvolvido para fins didáticos com o objetivo de consolidar os fundamentos de lógica de programação com a trilha da DIO, publicando os desafios de projeto e anotações do curso.
 
-## Desafio 1 - Classificador de nível de Herói
+# Desafio 1 - Classificador de nível de Herói
 ### Objetivo
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
@@ -24,7 +24,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-## Desafio 2️ - Calculadora de partidas Rankeadas
+# Desafio 2️ - Calculadora de partidas Rankeadas
 ### Objetivo:
 Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
@@ -40,8 +40,8 @@ Se vitórias for maior ou igual a 101 = Imortal
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
-## Desafio 3 - Escrevendo as classes de um Jogo
-## Objetivo:
+# Desafio 3 - Escrevendo as classes de um Jogo
+### Objetivo:
 Crie uma classe genérica que represente um herói de uma aventura e que possua as seguintes propriedades:
 
 - Nome
